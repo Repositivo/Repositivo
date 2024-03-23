@@ -10,17 +10,6 @@ El siguiente repositorio contendrá los avances de los futuros proyectos del Lab
 </div>
 <br>
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/ignacio-alejandro-meza-de-la-jara-4b0360134/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="mailto:imezadelajara@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="cv_ignacio.pdf">
-        <img src="https://img.shields.io/badge/Resume-Blue?style=for-the-badge&logoColor=white"/>
-    </a>
-</p>
 
 ## Algo de información acerca de Maximiliano Quintero <img src="https://www.fightersgeneration.com/characters/dio-super.gif" width="30px">
 
@@ -29,7 +18,7 @@ El siguiente repositorio contendrá los avances de los futuros proyectos del Lab
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 💙 Mis principales intereses son el ML, IA y Análisis Causal aplicado a fenómenos sociales. 
-- 🏫 Soy candidato a un Magíster de Ciencia de Datos, postulando en doble titulación con una Ingeniería Civil Industrial [Universidad de Chile](https://mds.uchile.cl/).
+- 🏫 Soy candidato a un Magíster de Ciencia de Datos, postulando en doble titulación con una Ingeniería Civil Industrial en la [Universidad de Chile](https://mds.uchile.cl/).
 - 📹 Tengo un trabajo part-time de Analista de datos en el A2IC. [Sitio Web](https://ingenieria.uchile.cl/escuela/docencia/a2ic/presentacion).
 - 🎙️ Amo la música y cantar.
 
